@@ -25,11 +25,16 @@ PROJECT INCLUDES:
 
 This project requires Python 3.x and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-scikit-learn
-seaborn
+-NumPy
+
+-Pandas
+
+-matplotlib
+
+-scikit-learn
+
+-seaborn
+
 You will also need to have software installed to run and execute an iPython Notebook
 
 # DATA FILES USED
