@@ -20,3 +20,18 @@ PROJECT INCLUDES:
 9. Companys Claim velocity calculations
 
 10. Workaholic & Suspicious agents
+
+#INSTALLATION
+This project requires Python 3.x and the following Python libraries installed:
+
+NumPy
+Pandas
+matplotlib
+scikit-learn
+seaborn
+You will also need to have software installed to run and execute an iPython Notebook
+
+#DATA FILES USED
+insurance_data.csv
+employee_data.csv
+vendor_data.csv
