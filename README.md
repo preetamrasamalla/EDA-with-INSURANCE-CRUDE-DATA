@@ -21,7 +21,8 @@ PROJECT INCLUDES:
 
 10. Workaholic & Suspicious agents
 
-#INSTALLATION
+# INSTALLATION
+
 This project requires Python 3.x and the following Python libraries installed:
 
 NumPy
@@ -31,7 +32,8 @@ scikit-learn
 seaborn
 You will also need to have software installed to run and execute an iPython Notebook
 
-#DATA FILES USED
+# DATA FILES USED
 insurance_data.csv
 employee_data.csv
 vendor_data.csv
+all files are uploded in repository above.
